@@ -43,7 +43,7 @@ You can download required docker image with :
 ```
 docker pull pytorch/pytorch:2.2.0-cuda11.8-cudnn8-runtime
 ```
-Libraries that are required for the experiment are in the ```requirements.txt``
+Libraries that are required for the experiment are in the ```requirements.txt```
 ```
 pip install -r requirements.txt
 ```
