@@ -50,4 +50,9 @@ pip install -r requirements.txt
 
 # Launching Experiment
 
+## Next Event Prediction
+
 <img width="1404" alt="nextact_inst" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/33e05de4-8c1e-460c-ab51-ced12ea0170e">
+<div align="center">Experiment detail for next-event prediction instantiation</div>
+
+For Ph 2. (Phase 2)
