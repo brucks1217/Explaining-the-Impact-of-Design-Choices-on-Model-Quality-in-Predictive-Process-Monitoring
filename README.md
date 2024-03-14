@@ -110,6 +110,10 @@ For phase 1, the hyperparameter search space is currently defined as :
 <br/>
 <br/>
 
+<img width="1413" alt="outcome_inst" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/abeab33c-212a-4f33-a936-5d260aa71707">
+<div align="center">Experiment detail for outcome prediction instantiation</div>
+<br/>
+
 For the Ph.2,
 run 'SSE_Outcome.ipynb'
 ```
