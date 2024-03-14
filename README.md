@@ -9,6 +9,8 @@ SSE_NextAct.ipynb (Search Space Exploration for Next Activity Prediction) will b
 + SEPSIS : sepsis_cases_1
 
 from https://drive.google.com/open?id=154hcH-HGThlcZJW5zBvCJMZvjOQDsnPR 
+
++ Structure of the repository
 ``` 
 Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
  ┣ requirements.txt
@@ -28,4 +30,16 @@ Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-M
  ┃ ┗ Exp_Outcome.ipynb
  ┣ datasets
  ┗ model_bin
+```
+
+# Environment 
+
++ CPU : Intel i9-12900
++ GPU : Nvidia RTX-3090TI
+
+This project is based on the 2.2.0-cuda11.8-cudnn8-runtime Docker image, which includes CUDA 11.8 and cuDNN 8.
+
+You can download required docker image with :
+```
+docker pull pytorch/pytorch:2.2.0-cuda11.8-cudnn8-runtime
 ```
