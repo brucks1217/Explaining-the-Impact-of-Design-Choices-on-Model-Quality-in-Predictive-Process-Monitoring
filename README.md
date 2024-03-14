@@ -49,8 +49,12 @@ pip install -r requirements.txt
 ```
 
 # Launching Experiment
+<img width="1404" alt="nextact_inst" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/21d55c57-668e-472a-84a4-f85e08629f0b">
+<div align="center">Framework Overview</div>
+<br/>
 
 ## Next Event Prediction
+
 For phase 1, the hyperparemeter search space is currently defined as :
 
 <img width="739" alt="nextact_ph1" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/e951a5d0-e6b3-4593-9abf-28c41382c449">
@@ -58,9 +62,9 @@ For phase 1, the hyperparemeter search space is currently defined as :
   
 <br/>
 <br/>
-For Ph 2. (Phase 2)
-
+For Ph 2. (Phase 2),
 
 <img width="1404" alt="nextact_inst" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/33e05de4-8c1e-460c-ab51-ced12ea0170e">
 <div align="center">Experiment detail for next-event prediction instantiation</div>
+<br/>
 
