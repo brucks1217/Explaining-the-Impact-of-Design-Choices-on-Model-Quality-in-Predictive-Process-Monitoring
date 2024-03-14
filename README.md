@@ -54,10 +54,11 @@ pip install -r requirements.txt
 For phase 1, the hyperparemeter search space is currently defined as :
 
 <img width="739" alt="nextact_ph1" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/e951a5d0-e6b3-4593-9abf-28c41382c449">
+<div align="center">Hyperparameter values specification in the next activity prediction instantiation of the proposed framework</div>
 
+For Ph 2. (Phase 2)
 
 
 <img width="1404" alt="nextact_inst" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/33e05de4-8c1e-460c-ab51-ced12ea0170e">
 <div align="center">Experiment detail for next-event prediction instantiation</div>
 
-For Ph 2. (Phase 2)
