@@ -1,7 +1,7 @@
 # Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
 
 SSE_NextAct.ipynb (Search Space Exploration for Next Activity Prediction) will be uploaded soon
-
+'''
 Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
  ┣ requirements.txt
  ┣ SSE_NextAct.ipynb
@@ -40,4 +40,4 @@ Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-M
  ┃ ┣ BPIC15.csv
  ┃ ┗ SEPSIS.csv
  ┗ model_bin
-
+'''
