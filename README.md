@@ -88,9 +88,10 @@ Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-M
 ...
 ```
 <br/>
+
 For the Ph.3 and 4,
 run 'Exp_NextAct.ipynb'
-``` 
+```
 Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
 ...
  ┣ config_nextact
