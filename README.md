@@ -7,7 +7,8 @@ SSE_NextAct.ipynb (Search Space Exploration for Next Activity Prediction) will b
 + BPIC12 : bpic2012_O_ACCEPTED-COMPLETE
 + BPIC15 : BPIC15_1_f2
 + SEPSIS : sepsis_cases_1
-from  https://drive.google.com/open?id=154hcH-HGThlcZJW5zBvCJMZvjOQDsnPR 
+
+from https://drive.google.com/open?id=154hcH-HGThlcZJW5zBvCJMZvjOQDsnPR 
 ``` 
 Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
  ┣ requirements.txt
