@@ -111,7 +111,7 @@ For phase 1, the hyperparameter search space is currently defined as :
 
 For the Ph.2,
 run 'SSE_Outcome.ipynb'
-``` 
+```
 Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
 ...
  ┣ SSE_Outcome.ipynb
@@ -120,6 +120,7 @@ Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-M
 
 You can change the target event log by changing the line : ``` eventlog = 'SEPSIS.csv' ```.
 Once you generate the code, the result configurations of hyperparameter values will be stored at 
+
 ```
 Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
 ...
@@ -130,10 +131,12 @@ Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-M
    ┣ SEPSIS
 ...
 ```
+
 <br/>
 For the Ph.3 and 4,
 run 'Exp_Outcome.ipynb'
-``` 
+
+```
 Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
 ...
  ┣ config_nextact
@@ -141,5 +144,4 @@ Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-M
    ┗ Exp_Outcome.ipynb
 ...
 ```
-
 
