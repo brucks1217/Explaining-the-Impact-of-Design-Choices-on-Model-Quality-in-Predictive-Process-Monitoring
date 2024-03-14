@@ -36,8 +36,6 @@ Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-M
 
 + CPU : Intel i9-12900
 + GPU : Nvidia RTX-3090TI
-+ Python : 3.10.13
-
   
 This project is based on the 2.2.0-cuda11.8-cudnn8-runtime Docker image, which includes CUDA 11.8 and cuDNN 8.
 
