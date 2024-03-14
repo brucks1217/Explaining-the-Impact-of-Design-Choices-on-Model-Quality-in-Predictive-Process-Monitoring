@@ -3,6 +3,7 @@
 SSE (Search Space Exploration) for Next Activity Prediction will be uploaded soon
 
 Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
+
   └ **SSE_NextAct.ipynb**
   └ **SSE_Outcome.ipynb**
   └ config_nextact
