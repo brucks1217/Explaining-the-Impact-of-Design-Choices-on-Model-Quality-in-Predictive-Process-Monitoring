@@ -104,7 +104,7 @@ Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-M
 
 For phase 1, the hyperparameter search space is currently defined as :
 <div align="center"><img width="744" alt="outcome_ph1" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/f0882392-ed0c-412c-8eee-d5cce7cb550d"></div>
-  <div align="center">Hyperparameter values specification in the outcome prediction instantiation of the proposed frameworkk</div>
+  <div align="center">Hyperparameter values specification in the outcome prediction instantiation of the proposed framework</div>
   
 <br/>
 <br/>
