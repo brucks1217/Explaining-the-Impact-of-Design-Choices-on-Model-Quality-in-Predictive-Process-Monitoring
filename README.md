@@ -56,8 +56,9 @@ pip install -r requirements.txt
 
 For phase 1, the hyperparemeter search space is currently defined as :
 
-<div align="center"><img width="739" alt="nextact_ph1" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/42c97582-2b76-4a3b-8b3e-6a40c6d0d1ce" alt="Hyperparameter values specification in the next activity prediction instantiation of the proposed framework" ></div>
-  
+<div align="center"><img width="739" alt="nextact_ph1" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/42c97582-2b76-4a3b-8b3e-6a40c6d0d1ce"  ></div>
+  <div align="center">Hyperparameter values specification in the next activity prediction instantiation of the proposed framework</div>
+
 <br/>
 <br/>
 
@@ -80,10 +81,65 @@ Once you generate the code, the result configurations of hyperparameter values w
 Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
 ...
  ┣ config_nextact
- ┃ ┣ BPIC11
- ┃ ┣ BPIC12
- ┃ ┣ BPIC15
- ┃ ┣ SEPSIS
+   ┣ BPIC11
+   ┣ BPIC12
+   ┣ BPIC15
+   ┣ SEPSIS
 ...
 ```
- 
+<br/>
+For the Ph.3 and 4,
+run 'Exp_NextAct.ipynb'
+``` 
+Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
+...
+ ┣ config_nextact
+...
+   ┗ Exp_NextAct.ipynb
+...
+```
+
+
+## Outcome Prediction
+
+For phase 1, the hyperparameter search space is currently defined as :
+<div align="center"><img width="744" alt="outcome_ph1" src="https://github.com/brucks1217/Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring/assets/112471517/f0882392-ed0c-412c-8eee-d5cce7cb550d"></div>
+  <div align="center">Hyperparameter values specification in the outcome prediction instantiation of the proposed frameworkk</div>
+  
+<br/>
+<br/>
+
+For the Ph.2,
+run 'SSE_Outcome.ipynb'
+``` 
+Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
+...
+ ┣ SSE_Outcome.ipynb
+...
+```
+
+You can change the target event log by changing the line : ``` eventlog = 'SEPSIS.csv' ```.
+Once you generate the code, the result configurations of hyperparameter values will be stored at 
+```
+Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
+...
+ ┣ config_outcome
+   ┣ BPIC11
+   ┣ BPIC12
+   ┣ BPIC15
+   ┣ SEPSIS
+...
+```
+<br/>
+For the Ph.3 and 4,
+run 'Exp_Outcome.ipynb'
+``` 
+Explaining-the-Impact-of-Design-Choices-on-Model-Quality-in-Predictive-Process-Monitoring
+...
+ ┣ config_nextact
+...
+   ┗ Exp_Outcome.ipynb
+...
+```
+
+
